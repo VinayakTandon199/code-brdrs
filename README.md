@@ -1,6 +1,6 @@
 # Custom Auth Login Builder
 
-**A no-code web app to re-imagine website security without emails, passwords, or phone numbers. Instead of traditional credentials, users create doodle, emoji, or pattern–based authentication and instantly export a ready-to-use login page.**
+**A no-code web app to re-imagine website security without emails, passwords, or phone numbers. Instead of traditional credentials, users create doodle, emoji, or pattern–based authentication and instantly export a ready-to-use login page. Click "visit now" to access the site**
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vist_Now-blue?style=for-the-badge&logo=vercel)](https://code-brdrs.vly.site)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/<your-username>/custom-auth-builder.git)
